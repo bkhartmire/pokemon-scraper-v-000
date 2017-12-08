@@ -24,3 +24,5 @@ class Pokemon
     Pokemon.new(id:row[0])
   end
 end
+
+Pokemon.find(1)
